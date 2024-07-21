@@ -3,7 +3,7 @@
 # The script runs almost all CI checks locally.
 #
 # Tests below requires running `fuel-core` node locally:
-# - `cargo run --locked --release --bin test -- --locked`
+# - `cargo run --locked -- release --bin test -- --locked`
 #
 # You can install `fuel-core` node by:
 # `cargo install fuel-core-bin --git https://github.com/FuelLabs/fuel-core --tag v0.24.3 --locked`
